@@ -1,4 +1,4 @@
-package com.sunlight;
+package com.Study1;
 
 import java.util.Scanner;
 
