@@ -89,7 +89,6 @@ public class Study2_2 {
      * 1.  求出所有的数据和
      * 2.  求出所有数据的平均数
      * 3.  统计有多少个数据比平均值小
-     * @param args
      */
     public static void Num()
     {
