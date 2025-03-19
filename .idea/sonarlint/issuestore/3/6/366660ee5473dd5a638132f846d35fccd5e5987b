@@ -1,0 +1,21 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄÂáîüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àî¡Ò
+b
+java:S2095L"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ó³ìë
+b
+java:S2095H"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(øÆˆ€
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÄÂáîüÿÿÿÿ
+b	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øø
+L
+java:S1854H"6Remove this useless assignment to local variable "br".(øÆˆ€
+=
+java:S1481H"'Remove this unused "br" local variable.(øÆˆ€
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+R
+java:S1128"<Remove this unused import 'org.apache.commons.io.FileUtils'.(À¿Ù´
+H
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ

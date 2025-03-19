@@ -1,6 +1,4 @@
 
-O
-Java-Study-01/Java-Study-01.iml,6\0\60648906d4a9872d54455bb732f077ded04d98a5
 Y
 )Java-Study-01/src/com/Study1/Study04.java,3\c\3c8ba74ac0dec9d354b9d322569fb617a4d4d354
 Y
@@ -17,3 +15,5 @@ Y
 Java-基础.iml,b\4\b4c7bf6d9db837006fc575d4ede7d80c3003eab7
 C
 Java基础知识点,e\4\e4601b1e81e2b8d2351cbd56c25aaac1ceab5f62
+\
+,Java-Study-01/src/com/Study12/Study12_2.java,3\6\366660ee5473dd5a638132f846d35fccd5e5987b
